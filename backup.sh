@@ -1,3 +1,1 @@
-asdeghda
-sdfsdf
-wadwa
+print('Hello!')
